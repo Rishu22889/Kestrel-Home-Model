@@ -1,6 +1,6 @@
 # Kestrel Home: warranty claim review queue
 
-This project ranks warranty claims so the investigation desk spends its 40 reviews a month where fraud is most likely. It does not reject claims.
+A machine learning prototype for warranty fraud risk ranking, featuring time-aware validation, explainable risk scores, and a FastAPI web interface. It helps prioritise claims for human investigation using a capacity-constrained review queue. No automatic claim rejection.
 
 | Deliverable | Where |
 |---|---|
