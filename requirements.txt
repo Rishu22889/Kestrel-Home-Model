@@ -1,0 +1,9 @@
+# Tested with Python 3.13 (pandas 2.2.3, numpy 2.2.4, scikit-learn 1.7.2, fastapi 0.115, pydantic 2.11)
+# and on a fresh Python 3.14 venv with the newest versions in these ranges.
+pandas>=2.2,<3
+numpy>=1.26
+scikit-learn>=1.5,<1.9
+joblib>=1.3
+fastapi>=0.110
+pydantic>=2.7
+uvicorn>=0.29
